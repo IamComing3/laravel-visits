@@ -1,11 +1,11 @@
 {
-    "name": "awssat/laravel-visits",
+    "name": "IamComing3/laravel-visits",
     "type": "library",
     "description": "Laravel Redis visits counter for Eloquent models",
     "keywords": [
         "Laravel", "Visits", "Counter", "Package",  "Redis",  "Cache",  "Php"
     ],
-    "homepage": "https://github.com/awssat/laravel-visits",
+    "homepage": "https://github.com/IamComing3/laravel-visits",
     "license": "MIT",
     "authors": [
         {
