@@ -1,5 +1,5 @@
 {
-    "name": "IamComing3/laravel-visits",
+    "name": "iamcoming3/laravel-visits",
     "type": "library",
     "description": "Laravel Redis visits counter for Eloquent models",
     "keywords": [
